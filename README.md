@@ -1,7 +1,3 @@
-Certainly! Here's the updated README:
-
----
-
 # Movie Recommender System
 
 Welcome to the Movie Recommender System! This application utilizes content-based filtering to recommend movies based on user preferences. It analyzes the attributes of movies such as genre, actors, director, and plot keywords to generate personalized recommendations.
